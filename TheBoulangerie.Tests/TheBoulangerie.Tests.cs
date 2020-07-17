@@ -59,14 +59,14 @@ namespace TheBoulangerie.Tests
     [TestMethod]
     public void PastryConstructor_CreatesInstanceOfPastry_Pastry()
     {
-      Pastry newPastry = new Pastry(); 
+      Pastry newPastry = new Pastry(5); 
       Assert.AreEqual(typeof(Pastry), newPastry.GetType());
     }
     [TestMethod]
     public void PastryConstructor_ReturnsQuantity_int()
     {
       int pastryAmount = 5; 
-      Pastry newPastry2 = new Pastry();
+      Pastry newPastry2 = new Pastry(pastryAmount);
       int result = newPastry2.PastryAmount; 
       Assert.AreEqual(pastryAmount, result);
     }
