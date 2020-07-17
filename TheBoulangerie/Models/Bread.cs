@@ -10,6 +10,7 @@ namespace TheBoulangerie.Models
     public Bread (int breadAmount)
       {
         BreadAmount = breadAmount;
+        //_instances.Add(this);
       }
     public int CalculateBreadPrice(int breadAmount) 
       {
