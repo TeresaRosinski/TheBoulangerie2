@@ -1,0 +1,11 @@
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie/obj/Debug/netcoreapp2.2/TheBoulangerie.csprojAssemblyReference.cache
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie/obj/Debug/netcoreapp2.2/TheBoulangerie.csproj.CoreCompileInputs.cache
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie/obj/Debug/netcoreapp2.2/TheBoulangerie.AssemblyInfoInputs.cache
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie/obj/Debug/netcoreapp2.2/TheBoulangerie.AssemblyInfo.cs
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie/bin/Debug/netcoreapp2.2/TheBoulangerie.deps.json
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie/bin/Debug/netcoreapp2.2/TheBoulangerie.runtimeconfig.json
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie/bin/Debug/netcoreapp2.2/TheBoulangerie.runtimeconfig.dev.json
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie/bin/Debug/netcoreapp2.2/TheBoulangerie.dll
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie/bin/Debug/netcoreapp2.2/TheBoulangerie.pdb
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie/obj/Debug/netcoreapp2.2/TheBoulangerie.dll
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie/obj/Debug/netcoreapp2.2/TheBoulangerie.pdb
