@@ -24,5 +24,16 @@ namespace TheBoulangerie.Tests
       Assert.AreEqual(breadAmount, result);
     }
 
+    [TestMethod]
+    public void BreadClass_ReturnsPriceOfBread_int()
+    {
+      {
+        int breadAmount = 5;
+        int priceForFiveLoaves = 20;  
+        Bread newBread3 = new Bread(breadAmount);
+        int result = newBread3.CalculateBreadPrice(breadAmount);
+        Assert.AreEqual(priceForFiveLoaves, result);
+      }
+    }
   }
 }
