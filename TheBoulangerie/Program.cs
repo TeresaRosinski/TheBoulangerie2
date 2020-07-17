@@ -36,6 +36,10 @@ namespace TheBoulangerie
           Console.WriteLine("Thanks for your order!");
         } 
       }
+      else
+      {
+        Console.WriteLine("Thanks for stopping by!");
+      }
     }
   }
 }
