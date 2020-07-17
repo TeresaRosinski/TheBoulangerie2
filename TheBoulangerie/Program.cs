@@ -20,7 +20,21 @@ namespace TheBoulangerie
         Bread breadOrder = new Bread (intBread);
         int priceBread = breadOrder.CalculateBreadPrice(intBread);
         Console.WriteLine("You have ordered " + intBread + " loaves of bread. This totals:$ " + priceBread);
-
+        Console.WriteLine("Would you like to order any pastries? If so, click 2");
+        string continueOrder = Console.ReadLine();
+        if(continueOrder == "2")
+        {
+          Console.WriteLine("How many pastries would you like?");
+          string quantityPastry = Console.ReadLine(); 
+          int intPastry = Convert.ToInt32(quantityPastry) ;
+          Pastry pastryOrder = new Pastry (intPastry);
+          int pricePastry = pastryOrder.CalculatePastryPrice(intPastry);
+          Console.WriteLine("You have ordered " + intBread + " loaves of bread. As well as " + quantityPastry + "Pastries. This totals:$ " + (priceBread+pricePastry));
+          
+        } else
+        {
+          Console.WriteLine("Thanks for your order!");
+        } 
       }
     }
   }
