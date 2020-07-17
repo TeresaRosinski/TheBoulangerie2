@@ -19,9 +19,9 @@ namespace TheBoulangerie.Tests
     public void BreadConstructor_ReturnsQuantity_int()
     {
       int breadAmount = 5; 
-      Bread newBread = new Bread(breadAmount);
-      int result = newBread.BreadAmount; 
-      Assert.AreEqual(newBread, result);
+      Bread newBread2 = new Bread(breadAmount);
+      int result = newBread2.BreadAmount; 
+      Assert.AreEqual(breadAmount, result);
     }
 
   }
