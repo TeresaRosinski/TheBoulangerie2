@@ -48,6 +48,13 @@ namespace TheBoulangerie.Tests
         int result = newBread5.CalculateBreadPrice(breadAmount);
         Assert.AreEqual(priceForTenLoaves, result);
       }
+      {
+        int breadAmount = 11;
+        int priceForElevenLoaves = 40;  
+        Bread newBread6 = new Bread(breadAmount);
+        int result = newBread6.CalculateBreadPrice(breadAmount);
+        Assert.AreEqual(priceForElevenLoaves, result);
+      }
     }
   }
 }
