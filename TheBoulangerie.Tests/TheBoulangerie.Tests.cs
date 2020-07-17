@@ -28,11 +28,11 @@ namespace TheBoulangerie.Tests
     public void BreadClass_ReturnsPriceOfBread_int()
     {
       {
-        int breadAmount = 5;
-        int priceForFiveLoaves = 20;  
+        int breadAmount = 3;
+        int priceForThreeLoaves = 10;  
         Bread newBread3 = new Bread(breadAmount);
         int result = newBread3.CalculateBreadPrice(breadAmount);
-        Assert.AreEqual(priceForFiveLoaves, result);
+        Assert.AreEqual(priceForThreeLoaves, result);
       }
     }
   }
