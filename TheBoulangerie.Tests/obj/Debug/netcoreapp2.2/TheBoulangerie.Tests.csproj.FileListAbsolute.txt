@@ -1,0 +1,17 @@
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/bin/Debug/netcoreapp2.2/TheBoulangerie.Tests.deps.json
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/bin/Debug/netcoreapp2.2/TheBoulangerie.Tests.runtimeconfig.json
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/bin/Debug/netcoreapp2.2/TheBoulangerie.Tests.runtimeconfig.dev.json
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/bin/Debug/netcoreapp2.2/TheBoulangerie.Tests.dll
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/bin/Debug/netcoreapp2.2/TheBoulangerie.Tests.pdb
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/bin/Debug/netcoreapp2.2/TheBoulangerie.dll
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/bin/Debug/netcoreapp2.2/TheBoulangerie.pdb
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/obj/Debug/netcoreapp2.2/TheBoulangerie.Tests.csprojAssemblyReference.cache
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/obj/Debug/netcoreapp2.2/TheBoulangerie.Tests.csproj.CoreCompileInputs.cache
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/obj/Debug/netcoreapp2.2/TheBoulangerie.Tests.AssemblyInfoInputs.cache
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/obj/Debug/netcoreapp2.2/TheBoulangerie.Tests.AssemblyInfo.cs
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/obj/Debug/netcoreapp2.2/TheBoulangerie.Tests.csproj.CopyComplete
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/obj/Debug/netcoreapp2.2/TheBoulangerie.Tests.dll
+/Users/teresarosinski/Desktop/TheBoulangerie.Solution/TheBoulangerie.Tests/obj/Debug/netcoreapp2.2/TheBoulangerie.Tests.pdb
