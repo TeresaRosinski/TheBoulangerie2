@@ -70,6 +70,17 @@ namespace TheBoulangerie.Tests
       int result = newPastry2.PastryAmount; 
       Assert.AreEqual(pastryAmount, result);
     }
+  [TestMethod]
+    public void PastryClass_ReturnsPriceOfPastry_int()
+    {
+      {
+        int pastryAmount = 1;
+        int priceForOnePastry = 2;  
+        Pastry newPastryOne = new Pastry(pastryAmount);
+        int result = newPastryOne.CalculatePastryPrice(pastryAmount);
+        Assert.AreEqual(priceForOnePastry, result);
+      }
 
   }
+}
 }
